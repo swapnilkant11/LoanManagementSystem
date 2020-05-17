@@ -22,7 +22,7 @@ start year.
 83.33
 10
 10
-may/May
+apr/Apr
 2020
 
 ```
